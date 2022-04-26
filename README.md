@@ -15,9 +15,17 @@ So you're looking to learn some PyTorch? Here's a set of useful pytorch tutorial
 
 ![myfile](https://github.com/WillMandil001/Pytorch-Tutorials/blob/main/200.gif)
 
-<!-- ![myfile](https://github.com/WillMandil001/Pytorch-Tutorials/blob/main/200.gif)
- -->
+
 ### Time Series Learning 
+1. 1 Intorduction to LSTMS: https://towardsdatascience.com/pytorch-lstms-for-time-series-data-cd16190929d7
+1. 2 LSTMS (Practical intro): https://colab.research.google.com/github/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb
 
+![myfile](https://github.com/WillMandil001/Pytorch-Tutorials/blob/main/200.gif)
 
-<!-- ![myfile](https://github.com/WillMandil001/Pytorch-Tutorials/blob/main/200.gif) -->
+### Robot Pushing:
+1. BAIR robot pushing dataset: https://sites.google.com/berkeley.edu/robotic-interaction-datasets
+2. Code to load: https://github.com/edenton/svg/blob/master/data/convert_bair.py
+3. SVG video predictor: https://github.com/WillMandil001/SPOTS/blob/main/models/universal_models/universal_networks/SVG.py (https://proceedings.mlr.press/v80/denton18a.html, https://proceedings.neurips.cc/paper/2019/hash/f7177163c833dff4b38fc8d2872f1ec6-Abstract.html)
+4. 
+
+![myfile](https://github.com/WillMandil001/Pytorch-Tutorials/blob/main/200.gif)
