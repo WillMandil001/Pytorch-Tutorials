@@ -13,7 +13,7 @@ So you're looking to learn some PyTorch? Here's a set of useful pytorch tutorial
 5. Training: https://pytorch.org/tutorials/beginner/basics/optimization_tutorial.html
 6. Saving and Loading Models: https://pytorch.org/tutorials/beginner/basics/saveloadrun_tutorial.html
 
-![myfile](https://github.com/WillMandil001/Pytorch-Tutorials/blob/main/200.gif)
+![myfile](https://github.com/WillMandil001/Pytorch-Tutorials/blob/main/300.gif)
 
 
 ### Time Series Learning 
@@ -28,4 +28,4 @@ So you're looking to learn some PyTorch? Here's a set of useful pytorch tutorial
 3. SVG video predictor: https://github.com/WillMandil001/SPOTS/blob/main/models/universal_models/universal_networks/SVG.py (https://proceedings.mlr.press/v80/denton18a.html, https://proceedings.neurips.cc/paper/2019/hash/f7177163c833dff4b38fc8d2872f1ec6-Abstract.html)
 4. 
 
-![myfile](https://github.com/WillMandil001/Pytorch-Tutorials/blob/main/200.gif)
+![myfile](https://github.com/WillMandil001/Pytorch-Tutorials/blob/main/400.gif)
